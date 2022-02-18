@@ -1,0 +1,11 @@
+{
+  "autoLoadEntities": true,
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "password": "Ngineer950712",
+  "database": "blink",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
